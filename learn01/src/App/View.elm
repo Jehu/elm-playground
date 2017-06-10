@@ -3,15 +3,7 @@ module App.View exposing (..)
 import App.Types exposing (..)
 import Html exposing (..)
 import Login.View as Login
-
-
--- import Login.Types
-
 import SignUp.View as SignUp
-
-
--- import SignUp.Types
-
 import Routing.Types exposing (..)
 
 
